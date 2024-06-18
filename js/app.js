@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 (async () => {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(position => {
@@ -8,6 +8,6 @@
         });
     }
 })();
-=======
 
->>>>>>> 657aec28da576f0970e978f3061fda6eec39c2e0
+
+
